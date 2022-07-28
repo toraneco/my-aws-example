@@ -1,0 +1,17 @@
+
+
+#
+.idea
+*.iml
+out/
+#
+
+#
+.gradle/
+bin/
+build/
+out/
+
+
+*.jar
+*.class
